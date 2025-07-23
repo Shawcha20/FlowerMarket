@@ -1,1 +1,16 @@
-@import "tailwindcss"
+@import "tailwindcss";
+
+:root {
+    --main-color: #000000;
+    --light-gray: rgba(0, 0, 0, 0.5);
+    --padding-lg: 16px;
+    --secondary-heading: #E95A08;
+}
+
+.noto {
+    font-family: "Noto Serif", sans-serif;
+}
+
+.inter {
+    font-family: "Inter", sans-serif;
+}
